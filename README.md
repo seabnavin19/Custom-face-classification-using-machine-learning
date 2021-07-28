@@ -1,4 +1,4 @@
-# Face_detection-in-machine-learning
+# Custom face detection using machine learning
 ## Table Content
 1. [Project OverView](#ov)
 2. [Tools](#to)
